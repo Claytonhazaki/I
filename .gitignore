@@ -1,0 +1,11 @@
+nome =  'caique'
+sobrenome = "pereira"
+idade = 40
+print("meu nome e {nome} {sobrenome} e tenho {idade}anos".format(
+    nome=nome, sobrenome=sobrenome ,idade=idade))
+
+
+
+
+valor = 543.64
+print('O valor e R$ {valor:.2f}'.format(valor=valor))
